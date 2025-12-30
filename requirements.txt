@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+databricks-sql-connector
+networkx
+plotly
